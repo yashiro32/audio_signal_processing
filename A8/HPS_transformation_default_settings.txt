@@ -1,0 +1,4 @@
+Frequency scaling factors:   [0, 1.2, 2.01, 1.2, 2.679, .7, 3.146, .7]
+Frequency stretching factors:   [0, 1, 2.01, 1, 2.679, 1.5, 3.146, 1.5]
+Timbre preservation:   1
+Time scaling factors:   [0, 0, 2.138, 2.138-1.0, 3.146, 3.146]

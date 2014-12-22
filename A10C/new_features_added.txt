@@ -1,0 +1,11 @@
+Features                         Acurracy
+
+pitch_instantaneous_confidence   83.5%
+
+spectral_crest                   81.5%
+
+spectral_rms                     80.50%
+
+spectral_spread                  80.50%
+
+spectral_strongpeak              82.00%

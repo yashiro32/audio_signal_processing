@@ -1,0 +1,5 @@
+import soundAnalysis as SA
+
+SA.descriptorPairScatterPlot('essentiaDownload2', descInput=(1,10))
+
+#SA.showDescriptorMapping()

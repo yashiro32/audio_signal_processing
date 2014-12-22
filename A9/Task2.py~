@@ -1,0 +1,5 @@
+import soundAnalysis as SA
+
+SA.descriptorPairScatterPlot('testDownload', descInput=(11,13))
+
+#SA.showDescriptorMapping()

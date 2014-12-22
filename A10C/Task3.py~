@@ -1,0 +1,7 @@
+import soundAnalysis as SA
+
+#SA.clusterSounds('testDownload', nCluster=10, descInput=[0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16])
+
+#SA.clusterSounds('testDownload', nCluster=10, descInput=[0,3,9,12])
+
+SA.clusterSounds('essentiaDownload2', nCluster=10, descInput=[0,1,2,3,4,5,16,7])
